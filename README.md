@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-¶A SERMON preached at Hampton Court, on Sonday being the. 12. day of Nouember, in the yeare of our L
+
 1. ❧TO THE RIGHT honorable & vertuous lord Ambrose Dudley, Earle of Varwike, Maister of the Queenes Maiesties Ordinance, and Knight of the most noble order of the Garter.
 
 #####Body#####
@@ -79,32 +79,28 @@ There are 112 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|7||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|7||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -112,22 +108,19 @@ There are 112 **ommitted** fragments!
 |No|element name|occ|attributes|
 |---|---|---|---|
 |1.|__am__|1||
-|2.|__back__|1||
-|3.|__bibl__|1||
-|4.|__body__|1||
-|5.|__closer__|2||
-|6.|__desc__|112||
-|7.|__div__|4| @__type__ (4) : title_page (1), dedication (1), sermon (1), colophon (1)|
-|8.|__ex__|1||
-|9.|__expan__|1||
-|10.|__front__|1||
-|11.|__g__|454| @__ref__ (454) : char:EOLhyphen (318), char:leaf (1), char:EOLunhyphen (23), char:cmbAbbrStroke (109), char:abque (1), char:punc (2)|
-|12.|__gap__|112| @__reason__ (112) : illegible (108), foreign (4)  •  @__resp__ (108) : #PDCC (108)  •  @__extent__ (108) : 1 letter (96), 1 word (7), 2 letters (4), 3 letters (1)|
-|13.|__head__|2||
-|14.|__hi__|592| @__rend__ (111) : sup (111)|
-|15.|__note__|2| @__place__ (2) : margin (2)|
-|16.|__p__|49||
-|17.|__pb__|59| @__facs__ (59) : tcp:2920:1 (1), tcp:2920:2 (2), tcp:2920:3 (2), tcp:2920:4 (2), tcp:2920:5 (2), tcp:2920:6 (2), tcp:2920:7 (2), tcp:2920:8 (2), tcp:2920:9 (2), tcp:2920:10 (2), tcp:2920:11 (2), tcp:2920:12 (2), tcp:2920:13 (2), tcp:2920:14 (2), tcp:2920:15 (2), tcp:2920:16 (2), tcp:2920:17 (2), tcp:2920:18 (2), tcp:2920:19 (2), tcp:2920:20 (2), tcp:2920:21 (2), tcp:2920:22 (2), tcp:2920:23 (2), tcp:2920:24 (2), tcp:2920:25 (2), tcp:2920:26 (2), tcp:2920:27 (2), tcp:2920:28 (2), tcp:2920:29 (2), tcp:2920:30 (2)  •  @__rendition__ (5) : simple:additions (5)|
-|18.|__q__|1||
-|19.|__seg__|2| @__rend__ (2) : decorInit (2)|
-|20.|__signed__|1||
+|2.|__bibl__|1||
+|3.|__closer__|2||
+|4.|__desc__|112||
+|5.|__div__|4| @__type__ (4) : title_page (1), dedication (1), sermon (1), colophon (1)|
+|6.|__ex__|1||
+|7.|__expan__|1||
+|8.|__g__|454| @__ref__ (454) : char:EOLhyphen (318), char:leaf (1), char:EOLunhyphen (23), char:cmbAbbrStroke (109), char:abque (1), char:punc (2)|
+|9.|__gap__|112| @__reason__ (112) : illegible (108), foreign (4)  •  @__resp__ (108) : #PDCC (108)  •  @__extent__ (108) : 1 letter (96), 1 word (7), 2 letters (4), 3 letters (1)|
+|10.|__head__|2||
+|11.|__hi__|592| @__rend__ (111) : sup (111)|
+|12.|__note__|2| @__place__ (2) : margin (2)|
+|13.|__p__|49||
+|14.|__pb__|59| @__facs__ (59) : tcp:2920:1 (1), tcp:2920:2 (2), tcp:2920:3 (2), tcp:2920:4 (2), tcp:2920:5 (2), tcp:2920:6 (2), tcp:2920:7 (2), tcp:2920:8 (2), tcp:2920:9 (2), tcp:2920:10 (2), tcp:2920:11 (2), tcp:2920:12 (2), tcp:2920:13 (2), tcp:2920:14 (2), tcp:2920:15 (2), tcp:2920:16 (2), tcp:2920:17 (2), tcp:2920:18 (2), tcp:2920:19 (2), tcp:2920:20 (2), tcp:2920:21 (2), tcp:2920:22 (2), tcp:2920:23 (2), tcp:2920:24 (2), tcp:2920:25 (2), tcp:2920:26 (2), tcp:2920:27 (2), tcp:2920:28 (2), tcp:2920:29 (2), tcp:2920:30 (2)  •  @__rendition__ (5) : simple:additions (5)|
+|15.|__q__|1||
+|16.|__seg__|2| @__rend__ (2) : decorInit (2)|
+|17.|__signed__|1||
